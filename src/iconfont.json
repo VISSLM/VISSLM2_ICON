@@ -2,9 +2,30 @@
   "id": "2252588",
   "name": "VISSLM 2.0",
   "font_family": "vmc",
-  "css_prefix_text": "vmc",
+  "css_prefix_text": "vmc-",
   "description": "VISSLM 2.0项目图标",
   "glyphs": [
+    {
+      "icon_id": "18769339",
+      "name": "ArrowRight-F",
+      "font_class": "ArrowRight-F",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "18769340",
+      "name": "ArrowUp-F",
+      "font_class": "ArrowUp-F",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "18769341",
+      "name": "ArrowLeft-F",
+      "font_class": "ArrowLeft-F",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
     {
       "icon_id": "18715611",
       "name": "Project",
