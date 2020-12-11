@@ -1,0 +1,170 @@
+{
+  "id": "2252588",
+  "name": "VISSLM 2.0",
+  "font_family": "vmc",
+  "css_prefix_text": "vmc",
+  "description": "VISSLM 2.0项目图标",
+  "glyphs": [
+    {
+      "icon_id": "18715611",
+      "name": "Project",
+      "font_class": "Project",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "18715612",
+      "name": "Visslm",
+      "font_class": "Visslm",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "18715613",
+      "name": "Requirement",
+      "font_class": "Requirement",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "18715583",
+      "name": "File-O",
+      "font_class": "File-O",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "18715584",
+      "name": "FolderClose-O",
+      "font_class": "FolderClose-O",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "18715585",
+      "name": "FolderOpen-O",
+      "font_class": "FolderOpen-O",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "18715586",
+      "name": "List",
+      "font_class": "List",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "18715587",
+      "name": "FontItalic",
+      "font_class": "FontItalic",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "18715588",
+      "name": "Filter-O",
+      "font_class": "Filter-O",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "18715589",
+      "name": "RightDrawer-O",
+      "font_class": "RightDrawer-O",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "18715590",
+      "name": "FontBold",
+      "font_class": "FontBold",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "18715591",
+      "name": "Plus-O",
+      "font_class": "Plus-O",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "18715592",
+      "name": "Search-O",
+      "font_class": "Search-O",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "18715593",
+      "name": "FontUnserscore",
+      "font_class": "FontUnserscore",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "18715594",
+      "name": "Set-F",
+      "font_class": "Set-F",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "18715595",
+      "name": "OrderedList",
+      "font_class": "OrderedList",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "18715596",
+      "name": "UnOrderedList",
+      "font_class": "UnOrderedList",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "18715597",
+      "name": "Superscript",
+      "font_class": "Superscript",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "18715598",
+      "name": "Subscript",
+      "font_class": "Subscript",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "18715567",
+      "name": "ArrowDown-F",
+      "font_class": "ArrowDown-F",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "18715568",
+      "name": "ArrowRight-O",
+      "font_class": "ArrowRight-O",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "18715569",
+      "name": "ArrowLeft-O",
+      "font_class": "ArrowLeft-O",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "18715570",
+      "name": "ArrowDown-O",
+      "font_class": "ArrowDown-O",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    }
+  ]
+}
