@@ -6,6 +6,13 @@
   "description": "VISSLM 2.0项目图标",
   "glyphs": [
     {
+      "icon_id": "18770653",
+      "name": "ArrowDown-F-S",
+      "font_class": "ArrowDown-F-S",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
       "icon_id": "18769339",
       "name": "ArrowRight-F",
       "font_class": "ArrowRight-F",
