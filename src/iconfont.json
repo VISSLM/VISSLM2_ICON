@@ -6,9 +6,37 @@
   "description": "VISSLM 2.0项目图标",
   "glyphs": [
     {
-      "icon_id": "18908237",
-      "name": "ArrowAdd",
-      "font_class": "ArrowAdd",
+      "icon_id": "19001646",
+      "name": "Organization-O",
+      "font_class": "Organization-O",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "19001574",
+      "name": "ProjectMenu-O",
+      "font_class": "ProjectMenu-O",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "19001575",
+      "name": "Component-O",
+      "font_class": "Component-O",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "19001576",
+      "name": "Project-O",
+      "font_class": "Project-O",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "18962737",
+      "name": "ArrowUp-O",
+      "font_class": "ArrowUp-O",
       "unicode": "e64e",
       "unicode_decimal": 58958
     },
