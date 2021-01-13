@@ -6,6 +6,34 @@
   "description": "VISSLM 2.0项目图标",
   "glyphs": [
     {
+      "icon_id": "19384812",
+      "name": "Project-O",
+      "font_class": "Project-O",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "19384813",
+      "name": "Organization-O",
+      "font_class": "Organization-O",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "19384814",
+      "name": "Component-O",
+      "font_class": "Component-O",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "19384826",
+      "name": "TagText-O",
+      "font_class": "TagText-O",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
       "icon_id": "19376432",
       "name": "ProjectMenuClose-O",
       "font_class": "ProjectMenuClose-O",
@@ -27,20 +55,6 @@
       "unicode_decimal": 58965
     },
     {
-      "icon_id": "19268872",
-      "name": "TagText-O",
-      "font_class": "TagText-O",
-      "unicode": "e656",
-      "unicode_decimal": 58966
-    },
-    {
-      "icon_id": "19171256",
-      "name": "Component-O",
-      "font_class": "Component-O",
-      "unicode": "e654",
-      "unicode_decimal": 58964
-    },
-    {
       "icon_id": "19164636",
       "name": "FolderClose-O",
       "font_class": "FolderClose-O",
@@ -53,20 +67,6 @@
       "font_class": "FolderOpen-O",
       "unicode": "e650",
       "unicode_decimal": 58960
-    },
-    {
-      "icon_id": "19164638",
-      "name": "Organization-O",
-      "font_class": "Organization-O",
-      "unicode": "e651",
-      "unicode_decimal": 58961
-    },
-    {
-      "icon_id": "19164639",
-      "name": "Project-O",
-      "font_class": "Project-O",
-      "unicode": "e652",
-      "unicode_decimal": 58962
     },
     {
       "icon_id": "18962737",
