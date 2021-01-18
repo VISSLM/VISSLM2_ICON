@@ -6,6 +6,13 @@
   "description": "VISSLM 2.0项目图标",
   "glyphs": [
     {
+      "icon_id": "19467387",
+      "name": "Logo",
+      "font_class": "Logo",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
       "icon_id": "19384812",
       "name": "Project-O",
       "font_class": "Project-O",
@@ -74,13 +81,6 @@
       "font_class": "ArrowUp-O",
       "unicode": "e64e",
       "unicode_decimal": 58958
-    },
-    {
-      "icon_id": "18863867",
-      "name": "logo",
-      "font_class": "logo",
-      "unicode": "e64d",
-      "unicode_decimal": 58957
     },
     {
       "icon_id": "18820365",
